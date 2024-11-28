@@ -1,14 +1,9 @@
 ## Hi there 👋
 
-<!--
-**czamoracarreon/czamoracarreon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 <li> <b>🔭 I’m currently working as a graphic freelance designer</li>
-- 🌱 I’m currently learning coding at TecnolochicasPro bootcamp...
-- 💬 Ask me about my pets Blue and Florence
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/ Her
-- ⚡ Fun fact: I'm into portrait photography
--->
+<li> <b>🌱 I’m currently learning coding at TecnolochicasPro bootcamp</li>
+<li> <b>💬 Ask me about my pets Blue and Florence</li>
+<li> <b>📫 How to reach me: Behance/Github/Instagram</li>
+<li> <b>😄 Pronouns: She/ Her</li>
+<li> <b>⚡ Fun fact: I'm into portrait photography</li>
